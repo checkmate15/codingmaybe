@@ -1,6 +1,6 @@
 package calculator;
 import java.util.Scanner;
-public class Myclaculator {
+public class Mycalculator {
 	public static void main (String [] args) {
 		Scanner input = new Scanner(System.in);
 		System.out.println("Hello guyz, you can only do math for certain limit. "
